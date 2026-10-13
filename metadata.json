@@ -1,0 +1,6 @@
+{
+  "name": "Vande Patrolling",
+  "description": "Vande Patrolling provides industrial and residential night patrolling, emergency response, Fire & Safety assistance and security monitoring services in Bhopal, Indore and other service areas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
